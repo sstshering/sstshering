@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sstshering, call me sonam
-- 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning java, c and python
+- 👋 Hi, I’m Sonam!
 - 💞️ I’m looking to collaborate with a lot of people
 - 📫 How to reach me on email: sstshering@miners.utep.edu
 
