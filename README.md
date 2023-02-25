@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonam!
-- 💞️ I’m looking to collaborate with a lot of people
+- 💞️ I’m looking forward to collaborate with a lot of people
 - 📫 How to reach me on email: sstshering@miners.utep.edu
 
 <!---
