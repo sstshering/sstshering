@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonam!
-- 💞️ I’m looking forward to collaborate with a lot of people
-- 📫 How to reach me on email: sstshering@miners.utep.edu
+- 💞️ I’m looking forward to collaborating with a lot of people
+- 📫 How to reach me by email: sonamseldon19@gmail.com
 
 <!---
 sstshering/sstshering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
